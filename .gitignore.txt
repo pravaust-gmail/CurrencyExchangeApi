@@ -1,0 +1,48 @@
+# Build results
+**/[Bb]in/
+**/[Oo]bj/
+**/out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider & VS Code
+.idea/
+.vscode/
+
+# Visual Studio
+.vs/
+
+# ASP.NET Core specifics
+appsettings.*.json
+!appsettings.json
+secrets.json
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+# Only ignore packages/ if not using packages.config
+!**/packages.config
+
+# Publish artifacts
+publish/
+wwwroot/dist/
+wwwroot/node_modules/

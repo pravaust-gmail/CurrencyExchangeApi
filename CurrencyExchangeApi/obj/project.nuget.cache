@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2N3sk/26bmE=",
+  "success": true,
+  "projectFilePath": "/Users/praveenpawar/src/dot-net/CurrencyExchangeApi/CurrencyExchangeApi/CurrencyExchangeApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/praveenpawar/.nuget/packages/microsoft.aspnetcore.openapi/9.0.7/microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "/Users/praveenpawar/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/praveenpawar/.nuget/packages/swashbuckle.aspnetcore.swagger/9.0.3/swashbuckle.aspnetcore.swagger.9.0.3.nupkg.sha512",
+    "/Users/praveenpawar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/9.0.3/swashbuckle.aspnetcore.swaggergen.9.0.3.nupkg.sha512",
+    "/Users/praveenpawar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/9.0.3/swashbuckle.aspnetcore.swaggerui.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
